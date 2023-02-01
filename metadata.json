@@ -1,0 +1,6 @@
+{
+  "name": "env.var.test",
+  "identifier": "com.domain.app.envvartest",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
